@@ -1,0 +1,11 @@
+{
+    "hello":"world",
+    "description":"hello world",
+    "image":"https://user-images.githubusercontent.com/1449049/92241968-604c5180-eebf-11ea-922b-85174223f22e.png",
+    "attributes":[
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        }
+    ]
+}
